@@ -1,7 +1,7 @@
-title: Spice
-description: 
+title: SPICE
+description: Simplified Presentation of Incredibly Complex Equations
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
