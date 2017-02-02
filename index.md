@@ -37,7 +37,7 @@ SPICE is currently used in the ImmunoTechnology lab of the NIAID Vaccine Researc
 
 ## Acknowledgements
 
-SPICE was written by [Joshua Nozzi](https://joshua.nozzi.name) in collaboration with [Dr. Mario Roederer](https://www.niaid.nih.gov/research/mario-roederer-phd-immunotechnology), Senior Investigator of the ImmunoTechnology section of the [Vaccine Research Center](https://www.niaid.nih.gov/research/vaccine-research-center-labs) at the [National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov).
+SPICE was written by [Joshua Nozzi](http://joshua.nozzi.name) in collaboration with [Dr. Mario Roederer](https://www.niaid.nih.gov/research/mario-roederer-phd-immunotechnology), Senior Investigator of the ImmunoTechnology section of the [Vaccine Research Center](https://www.niaid.nih.gov/research/vaccine-research-center-labs) at the [National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov).
 
 ## What's New in 5.3?
 
