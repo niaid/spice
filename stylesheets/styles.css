@@ -137,7 +137,7 @@ header li:last-child a {
 }
 
 header ul a {
-  line-height:1;
+  line-height:1.1;
   font-size:11px;
   color:#999;
   display:block;
@@ -165,7 +165,7 @@ header ul li + li + li {
 }
 
 header ul a strong {
-  font-size:12px;
+  font-size:11px;
   display:block;
   color:#222;
 }
