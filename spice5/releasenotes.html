@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+	<head>
+		<title>SPICE 5 Release Notes</title>
+	</head>
+	<body>
+		<h1>SPICE 5 Release Notes</h1>
+
+		<h2>5.23033 Update (2013-01-28)</h2>
+		<ul>
+			<li>"Cool Plot" heatmap-style plot</li>
+			<li>Improved registration system</li>
+			<li>Multiple bug fixes</li>
+			<li>Updated Help Book</li>
+		</ul>
+		
+		<h2>5.22012 Update (2012-02-09)</h2>
+		<ul>
+			<li>Fixed problem where data view structure (vars/params) and result categories could not be reordered.</li>
+			<li>Fixed large memory usage problem that can lead to a crash on large data sets.</li>
+			<li>Fixed problem where computed data could be missing / incorrectly displayed.</li>
+			<li>Vastly increased performance.</li>
+			<li>Numerous miscellaneous bug fixes.</li>
+		</ul>
+		
+		<h2>5.21003 Update (2011-09-04)</h2>
+		<ul>
+			<li>Fixed a compatibility issue with Mac OS X 10.5 (Leopard).</li>
+			<li>Fixed Max Y range problem where points equal to the Max Y would not be plotted.</li>
+			<li>New data views will now be set to 0.0 min y, with auto-min setting disabled by default.</li>
+		</ul>
+		
+		<h2>5.21002 Update (2011-09-03)</h2>
+		<ul>
+			<li>Fixed problem with export panel not showing</li>
+			<li>Fixed problem where print command produced no output</li>
+			<li>SPICE 5.2 now uses Sparkle automatic updating frameowrk.</li>
+		</ul>
+		
+		<h2>5.20091 Final Release (2011-03-14)</h2>
+		<ul>
+			<li>Final release of SPICE 5.2.</li>
+		</ul>
+		
+		<h2>5.2009 Public Beta (2011-03-02)</h2>
+		<ul>
+			<li>Fixed Bar chart drawing bounds bugs</li>
+			<li>Fixed a left-bias problem with bar chart scatter points</li>
+			<li>Fixed another import bug specific to OS X 10.5</li>
+			<li>Fixed problem with parameter drag-and-drop order</li>
+		</ul>
+		
+		<h2>5.2008 Public Beta (2011-02-25)</h2>
+		<ul>
+			<li>Fixed broken printing command</li>
+			<li>Fixed import bug triggered by bad formatting</li>
+			<li>Fixed import bug specific to OS X 10.5</li>
+			<li>Scale now defaults to absolute vs. relative in new data views</li>
+		</ul>
+		
+		<h2>5.2007 Public Beta (2011-02-22)</h2>
+		<ul>
+			<li>Fixed problem where SPICE would allow all variables to be set to non-categorical roles.</li>
+			<li>Fixed source editor bug where editing a source data value could cause an exception and potentially damage the document.</li>
+			<li>Fixed drawing error with bar chart point scattering feature and improved behavior.</li>
+			<li>Fixed a problem that could cause a crash on import (SPICE will now detect this formatting problem and warn with resolution steps).</li>
+		</ul>
+		
+		<h2>5.2006 Public Beta (2011-02-18)</h2>
+		<ul>
+			<li>Fixed problem with graph zoom controls.</li>
+			<li>Fixed problem where mean/median pie chart settings were swapped.</li>
+			<li>Fixed problem where categories with values whose median values were all zero (sum == 0.0 in pie means no slices) would display a confusing "no values" message instead of explaining that it can't plot because the sum is 0.0.</li>
+			<li>Fixed problem where negative threshold values could not be input.</li>
+			<li>Fixed problem where changes to threshold value would not be committed if you clicked done without pressing return first.</li>
+		</ul>
+		
+		<h2>5.2005 Public Beta (2011-02-15)</h2>
+		<ul>
+			<li>Added How to Cite SPICE and Read SPICE Paper menu links</li>
+			<li>Fixed an issue where importing txt files causes an exception</li>
+			<li>Fixed behavior in distribution stats when encountering log10(0.0)</li>
+			<li>Updated the help book to reflect 5.2 changes</li>
+		</ul>
+		<h2>5.2004 Beta</h2>
+		<ul>
+			<li>Changed update system to quit after download when an update is
+		      available</li>
+			<li>Fixed major crashing bug when overlaying data</li>
+			<li>Fixed a problem with menu validation</li>
+		</ul>
+		<h2>5.2003 Beta</h2>
+		<ul>
+			<li>Added version 4's distribution test (accessible from the toolbar)</li>
+			<li>Added option for distribution tests to be run against
+		      log-transformed data</li>
+			<li>Fixed further y axis notation bugs</li>
+			<li>Fixed performance and accuracy problem with Wilcoxon Rank Test</li>
+		</ul>
+		<h2>5.2002 Beta</h2>
+		<ul>
+			<li>Fixed crashing bug on import</li>
+			<li>Added drag-to-export to source and result tables</li>
+			<li>Added user option to limit number of pie graphs per row</li>
+			<li>Renamed "Bars get color priority" formatting option to "Use
+		      colors for error bars"</li>
+			<li>Renamed "Show data view summary chart" to "Show algorithm legend"</li>
+			<li>Added option to show major/minor ticks on NPlot and Bar Chart</li>
+			<li>Fixed y axis 0. notation formatting</li>
+			<li>Fixed bug where editing source data after import caused an
+		      exception</li>
+			<li>Fixed bug where bottom scale markers would not be drawn</li>
+			<li>Changed minimum pie radius to 10 pixels</li>
+			<li>Added ability to choose between mean and median for pie slices</li>
+			<li>Fixed bug where pinned thresholds would remain draggable</li>
+		</ul>
+		<h2>5.2001 Beta</h2>
+		<ul>
+			<li>No longer uses Core Data (fixing many file saving issues)</li>
+			<li>Added basic source data and structure editing</li>
+			<li>Moved measurements drawer into graph views system as another way
+		      of looking at a data view</li>
+			<li>Improved performance (4x faster than 5.1)</li>
+		</ul>
+		
+	</body>
+</html>
