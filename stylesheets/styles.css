@@ -111,6 +111,13 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header h1 img {
+	
+	vertical-align: middle;
+	padding-right: 10px;
+	
+}
+
 header ul {
   list-style:none;
   height:40px;
