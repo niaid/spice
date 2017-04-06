@@ -1,5 +1,7 @@
 title: SPICE
 description: Data Mining & Visualization Software for Multicolor Flow Cytometry
+baseurl: "/spice"
+url: "https://niaid.github.io"
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
