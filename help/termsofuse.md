@@ -3,14 +3,14 @@ layout: help
 title: How To Cite / Terms of Use
 ---
 
-##Terms of Use
+## Terms of Use
 
 By using this software, you agree to the following:
 
 - This software is to be used for research purposes only.
 - Any presentation of data analysis or graphics generated with the aid of this program will acknowledge the program according to the guidelines below.
 
-##How to Cite SPICE
+## How to Cite SPICE
 
 Please cite SPICE as follows:
 
