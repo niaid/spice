@@ -1,3 +1,6 @@
-## Help
+---
+layout: help
+title: Index
+---
 
-This is a stub for v6 help.
+This is a *test* of **Markdown** in templates!
