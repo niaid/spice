@@ -33,7 +33,7 @@ A Canvas is a container that behaves like an "art board" for laying out multiple
 
 ## Workflow
 
-The input, as mentioned above, is a series of continuous categorical measurements imported into SPICE. Currently, SPICE can import either a specialized text file for importing data or delimited data files (such as .csv, .tab/.tsv, etc.). The formats are explained in detail in the [Data File Format](dataformat) section. Future versions will provide more import options. Alternatively, you can create a new SPICE document and edit its source data directly. For bulk data, however, it's easiest to create a delimited data file and import it into a SPICE document.
+The input, as mentioned above, is a series of continuous categorical measurements imported into SPICE. Currently, SPICE can import either a specialized text file for importing data or delimited data files (such as `.csv`, `.tab`/`.tsv`, etc.). The formats are explained in detail in the [Data File Format](dataformat) section. Future versions will provide more import options. Alternatively, you can create a new SPICE document and edit its source data directly. For bulk data, however, it's easiest to create a delimited data file and import it into a SPICE document.
 
 Most of your time will be spent manipulating your data set to create Query Groups and Figures. This is done by arranging and assigning roles to Variables, and ignoring or showing Parameters, and changing their order. Changes to your data set require the Query Group to be recomputed, which can take time depending on the complexity of your data. The rest is spent formatting the resulting Figures to suit your needs, or composing them into one or more Canvases for higher-level organization of exported graphics.
 
