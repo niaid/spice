@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Guide
+title: User Guide
 ---
 
 ## Coming Soon

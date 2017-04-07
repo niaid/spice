@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Tutorial
+title: Tutorials
 ---
 
 ## Coming Soon
