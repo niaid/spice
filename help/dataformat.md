@@ -19,7 +19,7 @@ SPICE relied on another program, *Pestle*, to format data automatically from Flo
 
 The specifics of the SPD formats created by Pestle are detailed in the [Columnar SPD Format](columnarformat) and [Matrix SPD Format](matrixformat) sections.
 
-    **Note:** If you can use Pestle for your data manipulation, then you do not need to read this section in great detail. However, it will be useful to read it and understand the format of the data in case you wish to make minor modifications or understand why there may be problems if the displays do not look like what you want!
+    Note: If you can use Pestle for your data manipulation, then you do not need to read this section in great detail. However, it will be useful to read it and understand the format of the data in case you wish to make minor modifications or understand why there may be problems if the displays do not look like what you want!
 
 ***
 

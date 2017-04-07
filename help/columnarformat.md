@@ -5,9 +5,9 @@ title: Columnar SPD Format
 
 Create a text file (using Word or Excel) that conforms to the following formatting rules. Note that you can insert comments in the file by starting any line with an asterisk ("*"); these lines are completely ignored irrespective of where they occur. The references to line numbers below are taken to indicate the line number ignoring any comments. Thus, "Line 1" means the first line of the file that does not contain a comment line.
 
-    **Line 1:** The number of different variables in the data set ( = n)  
-    **Lines 2 through n+1:** Variable definitions  
-    **Lines n+2 to end:** Variable values and data value
+    Line 1: The number of different variables in the data set ( = n)  
+    Lines 2 through n+1: Variable definitions  
+    Lines n+2 to end: Variable values and data value
 
 A variable definition line contains the name of the variable (this can be any length, but should be kept short for legibility), followed by a list of possible values that this variable can take. This list must be tab-delimited. You do not have to specify all possible values; you can specify no values if you wish. The program will examine your data to determine what all possible values for each variable will be. The advantage to specifying values on this line is to control the order in which the values are displayed in the bar charts: they are listed in the same order as they are found on this line. The subset specification lines have n+1 columns separated by a tab; the first n columns are the exact specification of the subset, with the values for each phenotype. The last column has the display value.
 

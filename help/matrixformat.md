@@ -5,11 +5,11 @@ title: Matrix SPD Format
 
 This is probably the most common and easiest way to enter data into SPICE. Following the detailed description below is a graphical example that illustrates the elstrongents of this data format. Create a text file (using Word or Excel) that conforms to the following formatting rules. Note that you can insert comments in the file by starting any line with an asterisk ("*"); these lines are completely ignored irrespective of where they occur. The references to line numbers below are taken to indicate the line number ignoring any comments. Thus, "Line 1" means the first line of the file that does not contain a comment line.
 
-    **Line 1:** The number of different variables that are not in the matrix (= n), followed by a tab, followed by the number of variables in the matrix (= m).  
-    **Lines 2 through n+1:** Variable definitions of the non-matrix variables (“Common Variables”).  
-    **Lines n+2 through n+m+1:** Variable definitions of the “Matrix variables”. Here you need to specify, in tab-separated columns: the variable name (as above), how that variable name is encoded in the matrix header row, and then all possible values of the variable.  
-    **Line n+m+2:** The matrix header row. The first n columns of this row are ignored (they correspond to the non-matrix variables). The following m columns indicate what the variable values are for the numbers in that column. See below for formatting.  
-    **Lines n+m+2 to end:** Specifications and values.
+    Line 1: The number of different variables that are not in the matrix (= n), followed by a tab, followed by the number of variables in the matrix (= m).  
+    Lines 2 through n+1: Variable definitions of the non-matrix variables (“Common Variables”).  
+    Lines n+2 through n+m+1: Variable definitions of the “Matrix variables”. Here you need to specify, in tab-separated columns: the variable name (as above), how that variable name is encoded in the matrix header row, and then all possible values of the variable.  
+    Line n+m+2: The matrix header row. The first n columns of this row are ignored (they correspond to the non-matrix variables). The following m columns indicate what the variable values are for the numbers in that column. See below for formatting.  
+    Lines n+m+2 to end: Specifications and values.
 
 To enter data as a matrix of values, you must specify two values on the "Line 1", or number of variables, separated by a tab. The first value is the number of variables that are not part of the matrix, referred to as Common Variables (since they specify values that are common to many different data values). The second value is the number of variables that are encompassed by the matrix, referred to as Matrix Variables. Then, specify the variable definitions; there is a slight difference from the above specification for those variables which are encompassed by the matrix. Then provide the matrix header row, and then the matrix values.
 
@@ -94,10 +94,12 @@ Note: the matrix example data set could be encoded in the columnar format as sho
 
 Shown below is a graphical illustration of the various elements of a matrix-encoded data file. This is actually the data included with the documentation, from the file `DemoData 04.txt`. Only a portion of this file is shown for clarity.
 
+Fig. B: Major components of the matrix format  
 ![Fig. B: Major components of the matrix format](images/matrixa.jpg "Fig. B: Major components of the matrix format")
 
 *Figure B* shows the various major components of the data file: the optional comment line (the first few comment lines will be drawn in the SPICE Window to help identify the data set); the definition of the number of variables; the common variable definition lines; the matrix variable definition lines; the matrix header row; and finally, the matrix itself.
 
+Fig. C: Variable definitions of the matrix format  
 ![Fig. C: Variable definitions of the matrix format](images/matrixb.jpg "Fig. C: Variable definitions of the matrix format")
 
 *Figure C* shows the variable definitions. All variable definitions begin with the variable name. The text in this first column can be anything; it is what is drawn in the SPICE Graphics (and menus) to identify the variables. For Common Variables, this column can be followed by the values; you do not need to specify all (or even any) of the possible values; SPICE will determine the range of values by looking at the matrix. However, you can control the order of the bars (categories) in the Bar Charts by specifying the order of the values manually.
