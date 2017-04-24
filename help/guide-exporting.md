@@ -23,9 +23,9 @@ A brief, non-exhaustive, and impartial example of applications that can edit SPI
 
 A brief, non-exhaustive, and impartial example of applications that can work more easily with tabular text tables (simple text editors excluded):
 
-[JMP](https://www.jmp.com/en_us/home.html)
-[XTabulator](https://www.bartastechnologies.com/xtabulator)
-[Excel](https://products.office.com/en-us/excel)
+* [JMP](https://www.jmp.com/en_us/home.html)
+* [XTabulator](https://www.bartastechnologies.com/xtabulator)
+* [Excel](https://products.office.com/en-us/excel)
 
 ### Methods
 
