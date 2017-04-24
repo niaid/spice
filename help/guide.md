@@ -19,5 +19,5 @@ title: User Guide
 5. Canvases
     1. [Managing Canvases]()
     2. [On Canvas Updates]()
-6. [Exporting Data]()
-7. [Preferences]()
+6. [Exporting Data](guide-exporting)
+7. [Preferences](guide-preferences)
