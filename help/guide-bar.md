@@ -5,13 +5,13 @@ title: User Guide (Bar Figures)
 
 ## Bar Figures
 
-![A Bar Figure](images/bar-example "A Bar Figure")
+![A Bar Figure](images/bar-example.png "A Bar Figure")
 
 The bar figure represents the values for each category. Each category is represented by one or more bars (or sets of points), depending on how many [overlays]() are displayed. It is easily the most flexible graph available in terms of customizability. Though it's called a "bar figure", it can display bars, points, box plots, etc.
 
 ### Formatting Options
 
-![The Bar Figure Format Panel](images/bar-format "The Bar Figure Format Panel")
+![The Bar Figure Format Panel](images/bar-format.png "The Bar Figure Format Panel")
 
 A bar's visual appearance can be edited in the Figure Format panel when the bar figure is selected. Each group is described below.
 

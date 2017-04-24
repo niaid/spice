@@ -5,13 +5,13 @@ title: User Guide (Pie Figures)
 
 ## Pie Figures
 
-![A Pie Figure](images/pie-example "A Pie Figure")
+![A Pie Figure](images/pie-example.png "A Pie Figure")
 
 The pie figure represents fractions of the *total response* across all categories. Each slice represents a single category. The basic pie chart features a customizable size and color scheme. In addition, *pie arcs* can be enabled, which identify slices of the pie which represent certain [parameters](guide-guide-variablessparamsroles) for each of the first variables that are shown. The slices identified are those which represent the first parameter for that variable. In the example above, `gIFN +` and `IL2 +` are depicted. When pie arcs are enabled, an `arc legend` can also be displayed. When a pie figure represents a query with overlays, one pie will appear in the figure for each overlay.
 
 ### Formatting Options
 
-![The Pie Figure Format Panel](images/pie-format "The Pie Figure Format Panel")
+![The Pie Figure Format Panel](images/pie-format.png "The Pie Figure Format Panel")
 
 A pie's visual appearance can be edited in the Figure Format panel when the pie figure is selected. Each group is described below.
 
