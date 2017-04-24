@@ -14,7 +14,7 @@ title: User Guide
 4. Figures
     1. [Managing Figures](guide-managingfigures)
     2. [Figure Types](guide-figuretypes)
-    3. [Shared Styles]()
+    3. [Shared Styles](guide-sharedstyles)
     4. [Color Schemes](guide-colorschemes)
 5. Canvases
     1. [Managing Canvases]()
