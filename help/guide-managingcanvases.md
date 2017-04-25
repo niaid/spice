@@ -23,7 +23,7 @@ This guide covers managing canvases - that is, adding, removing, exporting, etc.
 
 Clicking the **+** button in the toolbar presents you with a menu as shown below.
 
-![Add Asset Menu](images/toolbaraddcanvas.png "Add Asset Menu")
+![Add Asset Menu](images/toolbar-addcanvas.png "Add Asset Menu")
 
 Choose New Canvas. The new canvas will appear and a corresponding tab will appear beneath the toolbar, above the canvas view. Each canvas exists in its own tab and you can add as many as you wish.
 
