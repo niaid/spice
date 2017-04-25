@@ -17,7 +17,7 @@ title: User Guide
     3. [Shared Styles](guide-sharedstyles)
     4. [Color Schemes](guide-colorschemes)
 5. Canvases
-    1. [Managing Canvases]()
-    2. [On Canvas Updates]()
+    1. [Managing Canvases](guide-managingcanvases)
+    2. [Using Canvases](guide-usingcanvases)
 6. [Exporting Data](guide-exporting)
 7. [Preferences](guide-preferences)
