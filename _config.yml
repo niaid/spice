@@ -8,3 +8,7 @@ theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
+  
+defaults:
+  - scope:
+    path: "v6"
