@@ -5,10 +5,6 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
-## 6.0xxx (2017-06-01)
+## 6.0033 (2018-01-31)
 
-SPICE 6 has not yet been released to the public. These notes will be updated with *public* release information. Each major change will appear in a list such as the one seen below.
-
-- Major change
-- Another major change
-- And so on...
+**Public Release.** This is the final 6.0 public release version. Future beta versions will be posted here but public releases will *only* appear in the auto-update feeds for public release versions.

@@ -8,6 +8,20 @@
 		<description>Most recent stable releases of SPICE 6 with links to updates.</description>
 		<language>en</language>
 		
+        <item>
+            <title>6.0 (60033) 2018-01-31</title>
+            <sparkle:releaseNotesLink>https://niaid.github.io/spice/v6/updates/releasenotes.html</sparkle:releaseNotesLink>
+            <pubDate>Wed, 31 Jan 2018 12:00:00 -0400</pubDate>
+            <enclosure
+            url="https://niaid.github.io/spice/v6/updates/SPICE60033.zip"
+            sparkle:version="60033"
+            sparkle:shortVersionString="6.0"
+            type="application/octet-stream"
+            length="4337487"
+            sparkle:dsaSignature="MCwCFF9tdmZsPggzn6NqTlQ00IxSvCImAhRx/NNy5voetiS6/5LaGUw40F+7vA=="
+            />
+        </item>
+        
 	</channel>
 	
 </rss>
