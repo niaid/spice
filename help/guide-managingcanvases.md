@@ -47,4 +47,7 @@ Each of the above actions is undoable.
 
 A canvas can be exported as a print-quality PDF vector graphic for use in any application that accepts vector graphics. You can also use the Copy command to place the PDF graphic onto the pasteboard for pasting into any application that accept pasted graphics (but make sure the canvas itself is selected and not just a figure within it). You can also use the Export button in the toolbar. You can even use a vector graphics application to "break down" the graphic into its individual elements (for example, each slice in a pie figure, or each point in a bar figure) for further customization. See the [Exporting](guide-exporting) section of the User Guide for more details.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-colorschemes) | [Next](guide-usingcanvases)
+

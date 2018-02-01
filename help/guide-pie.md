@@ -57,4 +57,6 @@ The *figure* caption checkbox shows or hides the figure's title in the exported 
 
 The *query group* caption checkbox shows or hides the figure's query group's title in the exported graphic.
 
-[Return to Figure Types Index](guide-figuretypes) &middot; [Return to Guide Index](guide)
+*****
+
+[Return to Figure Types Index](guide-figuretypes) | [Previous](guide-managingfigures) | [Next](guide-bar)

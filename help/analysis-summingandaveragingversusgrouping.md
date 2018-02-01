@@ -11,4 +11,6 @@ When you assign a variable to have a "Sum" or "Average" role, then all data that
 
 Consider another example. In general, if you are analyzing an experiment in which you have three cohorts of subjects, with different numbers of subjects in each cohort, then you should assign a "Group" role to the "Subject" variable when you compare the cohorts. This will instruct SPICE to show you the mean response for a subject in each of the cohorts. If you were to choose "Sum", then each cohort would have the total response, summed over all of the patients ("Average" role would average over all the patients). But, this sum will depend on the number of patients as well as the responses of the patients, and therefore may not be a meaningful value to compare.
 
-[Return To Analysis Index](analysis)
+*****
+
+[Return To Analysis Index](analysis) | [Previous](analysis-addingvariables) | [Next](analysis-relativeversusabsolutescaling)

@@ -31,4 +31,6 @@ To remove a figure, click to select it in the canvas, then press the delete key.
 
 Each of the above actions is undoable.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-managingcanvases) | [Next](guide-exporting)

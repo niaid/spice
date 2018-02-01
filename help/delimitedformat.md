@@ -64,3 +64,7 @@ FlowJo will output tabular data (for example, for arrays of Boolean gates) in ma
 ### Recommended Editors
 
 It is not recommended to use a plain text editor when manipulating tabular data files. As a consequence of such an open text format, a single misplaced or stray character can cause everything after it to be misinterpreted. We recommend using [Excel](http://microsoft.com/office/excel) or [XTabulator](http://bartastechnologies.com/xtabulator) to format and edit tabular data files (CSV, TAB/TSV, etc.). When using Excel, take care not to select or edit cells to the right of actual data cells or Excel will automatically add extra fields to the end of the record when you save as CSV or TAB.
+
+*****
+
+[Return To Index](index) | [Previous](dataformat) | [Next](columnarformat)

@@ -42,3 +42,7 @@ The output of SPICE are the various Figures and Canvases (as well as the result 
 ### Legacy Support
 
 Users of previous versions can open existing `.spd` and `.spicedoc` / `.spicedocument` files in the current version (they will be saved into a new, upgraded file when opened).
+
+*****
+
+[Previous](index) | [Next](guide)

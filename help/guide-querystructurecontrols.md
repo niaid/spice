@@ -47,4 +47,6 @@ The auto-update delay control, when enabled, delays updating your query for a sh
 
 > Note: You can force a query to update immediately by pressing Command-R (the Command key plus the R key) on your keyboard. This can also refresh a figure that was misdrawn due to an interruption in computation.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-managingquerygroups) | [Next](guide-variablessparamsroles)

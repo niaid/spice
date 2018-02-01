@@ -13,3 +13,7 @@ This section goes into more depth on a few topics covered by the User Guide and 
 4. [Summing &amp; Averaging vs. Grouping](analysis-summingandaveragingversusgrouping)
 5. [Relative vs. Absolute Scaling](analysis-relativeversusabsolutescaling)
 6. [Comparing Overlays](analysis-comparingoverlays)
+
+*****
+
+[Return to Index](index) | [Previous](tutorial-complex) | [Next](analysis-categoryorder)

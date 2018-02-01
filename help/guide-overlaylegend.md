@@ -19,4 +19,6 @@ The *limit* field allows you to specify the maximum number of overlays to displa
 
 The *condensed* checkbox, when checked, results in a simple two-column key with the overlay number and a condensed description of the overlay. When unchecked, the table shows a column for the overlay number and one column for each overlay variable.
 
-[Return to Figure Types Index](guide-figuretypes) &middot; [Return to Guide Index](guide)
+*****
+
+[Return to Figure Types Index](guide-figuretypes) | [Previous](guide-categorylegend) | [Next](guide-grouplegend)

@@ -51,4 +51,7 @@ You can also delete templates using the X button next to each template. Addition
 
 You can also copy a style between figures within the same document or figures in another document without using a shared style by using the Copy and Paste Style control in the toolbar. To copy a figure's style, select it then click the Copy Style button. To paste, select the target figure and click the Paste Style button. The Paste Style button is only available if the selected figure is the same type as the style that was copied.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-querydescription) | [Next](guide-colorschemes)
+

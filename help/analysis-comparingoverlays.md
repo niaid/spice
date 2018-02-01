@@ -23,4 +23,6 @@ where m and n are the number of samples in the two pies. For example, if you are
 
 When SPICE compares the overlays, it compares the size of each category between the two overlays. It sums up the differences over all categories to determine the overall difference. This overall difference is used in the permutation test described above. The variability in this value between samples contained in each overlay might be reduced if you reduce the number of categories (for instance, by averaging or summing over certain variables); this may affect the p values.
 
-[Return To Analysis Index](analysis)
+*****
+
+[Return To Analysis Index](analysis) | [Previous](analysis-relativeversusabsolutescaling) | [Next](dataformat)

@@ -39,4 +39,6 @@ Each of the above actions is undoable.
 
 A query group's result data can be exported as a tab-separated text table by dragging the query group from the outline into a Finder folder or onto the Desktop. You can also choose Copy Result Table from the Query menu in the main menu bar, which places the tab-separated text table onto the pasteboard for pasting into a text editor, Excel, JMP, or any number of applications that accept this type of paste.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-importing) | [Next](guide-querystructurecontrols)

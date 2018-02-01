@@ -17,4 +17,6 @@ One way to accomplish this is with an application called [Pestle](http://drmr.co
 
 When you launch SPICE with datasets containing these additional variables, you will likely need to assign a "Group" role to these additional variables (when you are not analyzing by those variables). That way, SPICE does not try to show all possible categories of variable values (particularly useful when some combinations of variable values don't exist in the data set).
 
-[Return To Analysis Index](analysis)
+*****
+
+[Return To Analysis Index](analysis) | [Previous](analysis-thresholding) | [Next](analysis-summingandaveragingversusgrouping)

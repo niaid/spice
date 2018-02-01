@@ -53,4 +53,6 @@ The path control allows you to specify the parent folder into which to export th
 
 > Note: In the case of Canvas mode, selecting the canvas for export will export the entire canvas as one PDF graphic, which is just as detailed and compatible as individual figure graphics. As a PDF, however, a canvas with many and/or detailed figures may be quite a large file.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-usingcanvases) | [Next](guide-preferences)

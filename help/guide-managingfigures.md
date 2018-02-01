@@ -35,4 +35,6 @@ Each of the above actions is undoable.
 
 A figure can be exported as a print-quality PDF vector graphic by dragging it from the outline into a Finder folder, onto the Desktop, or into any application that accepts vector graphics. You can also use the Copy command to place the PDF graphic onto the pasteboard for pasting into any application that accept pasted graphics. You can even use a vector graphics application to "break down" the graphic into its individual elements (for example, each slice in a pie figure, or each point in a bar figure) for further customization.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-variablessparamsroles) | [Next](guide-figuretypes)

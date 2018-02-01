@@ -19,4 +19,6 @@ The *limit* field allows you to specify the maximum number of groups to display 
 
 The *condensed* checkbox, when checked, results in a simple two-column key with the group number and a condensed description of the group. When unchecked, the table shows a column for the group number and one column for each group variable.
 
-[Return to Figure Types Index](guide-figuretypes) &middot; [Return to Guide Index](guide)
+*****
+
+[Return to Figure Types Index](guide-figuretypes) | [Previous](guide-overlaylegend) | [Next](guide-querydescription)

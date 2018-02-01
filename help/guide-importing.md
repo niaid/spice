@@ -25,4 +25,6 @@ You can open SPICE documents from earlier versions the same way as current docum
 
 > Note: Some features have changed between version 5 and 6. Although version 6 attempts to present your document as faithfully to the original as possible, some formatting settings may have changed. Please verify all settings carefully when updating a document.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-uioverview) | [Next](guide-managingquerygroups)

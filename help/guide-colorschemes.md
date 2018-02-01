@@ -71,4 +71,6 @@ The example above shows the available functions that can be applied to your sche
 
 Color schemes can be copied from any color control and pasted onto any other color control, across multiple documents or within the same document (independently of [shared styles](guide-sharedstyles)). Using the style actions buttons you can copy a style from one control, then open the options of another color scheme control and paste the copied styles. The source color scheme's settings are copied to the new color scheme.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-sharedstyles) | [Next](guide-managingcanvases)

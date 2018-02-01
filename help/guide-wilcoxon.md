@@ -25,4 +25,6 @@ The *highlight values* control affects how *p* values are highlighted. In *auto*
 
 The *show description* checkbox, when checked, adds a summary description of the test beneath the table, as shown in the example above. Specifically, the example images (both the figure and the format controls) reflect the test settings: *"Comparing categories across overlays (12 comparisons) with overlay: Timepoint: 1mo post MVA"*.
 
-[Return to Figure Types Index](guide-figuretypes) &middot; [Return to Guide Index](guide)
+*****
+
+[Return to Figure Types Index](guide-figuretypes) | [Previous](guide-permutationtest) | [Next](guide-studentst)

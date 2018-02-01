@@ -23,4 +23,6 @@ This field controls the number of significant figures SPICE shows when rendering
 
 Checking this box causes SPICE to display numbers rendered in figures using scientific notation (respecting the significant figures preference).
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-exporting) | [Next](guide-tutorials)

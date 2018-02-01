@@ -25,4 +25,6 @@ The above image shows the inspector pane when a query group is selected (ie, the
 1. Canvas View
 2. Tab Bar
 
-[Return to Guide Index](guide)
+*****
+
+[Previous](guide) | [Next](guide-importing)

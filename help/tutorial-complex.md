@@ -51,4 +51,6 @@ By selecting different coloring schemes, you can determine if there are common o
 
 This concludes the tutorial.
 
-[Previous Tutorial](tutorial-simple) &middot; [Return To Tutorials](tutorials)
+*****
+
+[Return to Tutorials](tutorials) | [Previous](tutorial-simple) | [Next](analysis)

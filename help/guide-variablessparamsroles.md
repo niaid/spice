@@ -37,4 +37,6 @@ Grouped variables, like summed and averaged variables, reduce the data set. The 
 
 For example, if a variable `Patient` has the parameters `A` and `B`, all the values for patients `A` and `B` are combined. In a bar figure, the values will be displayed as multiple data points within each category.
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-querystructurecontrols) | [Next](guide-managingfigures)

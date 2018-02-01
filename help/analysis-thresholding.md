@@ -21,4 +21,6 @@ To continue evaluating the appropriate threshold, you can also display the bar a
 
 > Note: if you set the threshold so high as to eliminate true positive responses, you will start to significantly affect the distributions again.
 
-[Return To Analysis Index](analysis)
+*****
+
+[Return To Analysis Index](analysis) | [Previous](analysis-categoryorder) | [Next](analysis-addingvariables)

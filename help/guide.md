@@ -21,3 +21,8 @@ title: User Guide
     2. [Using Canvases](guide-usingcanvases)
 6. [Exporting Data](guide-exporting)
 7. [Preferences](guide-preferences)
+
+*****
+
+[Previous](overview) | [Next](guide-uioverview)
+

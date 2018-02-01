@@ -80,3 +80,7 @@ Thresholding is now a one-time operation that occurs after all other computation
 ## Licensing
 
 SPICE 6 is now individually licensed. You will need to obtain a serial number to run the program, which is specific to each user. Serial numbers are free (SPICE is free of charge), but the licensing scheme is used so that we can manage upgrades and keep track of usage as well as ensuring that users have agreed to the terms of the program. When unregistered, users are prompted when the application launches to fill out a simple form an accept the agreement. Once the form is completed and submitted, the application obtains a license over the Internet automatically. **You must have an active Internet connection to register SPICE 6.**
+
+*****
+
+[Return To Index](index) | [Previous](matrixformat) | [Next](termsofuse)

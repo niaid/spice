@@ -62,3 +62,7 @@ A variable definition line contains the name of the variable (this can be any le
 As an example, consider the data formatted as shown in *Figure A*. This data file begins with a comment that will be displayed in the Inspector Panel. The next line specifies that there are three variables recorded in the data set. These variables, found on the subsequent three lines, are named "Stimulation", "CD107", and "IFNg". The "stimulation" variable has 4 values specified; in bar charts, "Env" will be shown to the left of "Gag", "Pol", "Nef", and any other values in the data. CD107 and IFNg can take on two different values each, "+" or "-". You could choose "&middot;" and "&nbsp;" (space) if you wish; this makes for an attractive legend.
 
 The first display value is for Stimulation: Env, CD107: +, and IFNg: +, and has a value of 0.2. There are two additional display values in this (trivial) data set.
+
+*****
+
+[Return To Data Format Index](dataformat) | [Previous](delimitedformat) | [Next](matrixformat)

@@ -25,4 +25,6 @@ You can also change the bar order by selecting the query group in the outline, t
 
 >Note: Re-ordering categories does not affect the calculations of statistics for either the bar chart or the pie charts.
 
-[Return To Analysis Index](analysis)
+*****
+
+[Return To Analysis Index](analysis) | [Previous](analysis) | [Next](analysis-thresholding)

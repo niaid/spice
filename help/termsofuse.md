@@ -15,3 +15,7 @@ By using this software, you agree to the following:
 Please cite SPICE as follows:
 
 > Roederer, Mario, Nozzi, J. L., and Nason, M. X.  (2011), SPICE: Exploration and analysis of post-cytometric complex multivariate datasets. Cytometry Part A, 79A: 167-174. doi: 10.1002/cyto.a.21015.
+
+*****
+
+[Return To Index](index)

@@ -21,4 +21,6 @@ The *condensed* checkbox, when checked, results in a simple two-column key with 
 
 The *color by* control lets you select a pie figure (if any exist) whose category color scheme your category key can borrow. When a pie figure is selected the category key are given color keys corresponding to the color scheme defined by the pie's category color scheme. If a selected pie figure is deleted from your document, the figure remains selected here until it is deselected. This allows you to use the pie's color scheme without it appearing in your outline (and, incidentally, simplifies undo / redo behavior when deleting figures).
 
-[Return to Figure Types Index](guide-figuretypes) &middot; [Return to Guide Index](guide)
+*****
+
+[Return to Figure Types Index](guide-figuretypes) | [Previous](guide-studentst) | [Next](guide-overlaylegend)

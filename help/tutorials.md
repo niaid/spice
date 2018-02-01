@@ -13,3 +13,7 @@ The example data files are included with the distribution; you can open them in 
 
 1. [Simple Tutorial](tutorial-simple)
 2. [Complex Tutorial](tutorial-complex)
+
+*****
+
+[Return to Index](index) | [Previous](guide-preferences) | [Next](tutorial-simple)

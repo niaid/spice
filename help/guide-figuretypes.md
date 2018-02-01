@@ -17,4 +17,6 @@ title: User Guide (Figure Types)
 10. [Group Legend](guide-grouplegend)
 11. [Query Description](guide-querydescription)
 
-[Return to Guide Index](guide)
+*****
+
+[Return to Guide Index](guide) | [Previous](guide-managingfigures) | [Next](guide-pie)

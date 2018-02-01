@@ -33,4 +33,6 @@ If you'd like to publish or otherwise share these visualizations, you can easily
 
 This tutorial should give you a basic idea of how to use SPICE to explore your data visually as well as how to customize your plots for use in publications.
 
-[Next Tutorial](tutorial-complex) &middot; [Return To Tutorials](tutorials)
+*****
+
+[Return to Tutorials](tutorials) | [Previous](tutorials) | [Next](tutorial-complex)

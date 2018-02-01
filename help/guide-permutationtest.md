@@ -23,4 +23,6 @@ The *highlight values* control affects how *p* values are highlighted. In *auto*
 
 > Note: It is perfectly normal for the numbers to be different each time the test is run. This is a *randomized* test, so the exact same results should not be expected. SPICE does take care not to re-run the test too often but changes to the figure's enclosing query group's query structure or the figure's own settings will cause the test to be re-run.
 
-[Return to Figure Types Index](guide-figuretypes) &middot; [Return to Guide Index](guide)
+*****
+
+[Return to Figure Types Index](guide-figuretypes) | [Previous](guide-coolplot) | [Next](guide-wilcoxon)

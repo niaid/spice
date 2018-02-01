@@ -71,4 +71,6 @@ Clearly, in this case, you would want to use "relative" scaling, or at least cho
 
 Note that if all of your samples have total responses that are very similar in magnitude, then this option will have little or no effect on the data visualization. It is only relevant when you are trying to compare samples that have potentially widely different total responses. Use "Relative Scaling" if you are interested in the "average flavor".
 
-[Return To Analysis Index](analysis)
+*****
+
+[Return To Analysis Index](analysis) | [Previous](analysis-summingandaveragingversusgrouping) | [Next](analysis-comparingoverlays)
