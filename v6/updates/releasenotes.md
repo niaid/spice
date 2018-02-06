@@ -5,6 +5,10 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0035 (2018-02-02)
+
+* Fixes a bug that could cause SPICE to crash under certain circumstances when clicking a color swatch in the color scheme control.
+
 ## 6.0034 (2018-02-02)
 
 This minor update addresses two issues:
