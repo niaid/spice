@@ -1,11 +1,3 @@
-/* 
-body {
-  background-color: #f1f1f1;
-  color: #151515;
-}
- */
-
-
 /* Header and Navbar
 ------------------------- */
 
@@ -42,11 +34,6 @@ body {
   background-color: transparent;
   outline: 0;
   transition: all 0.2s;
-}
-
-nav {
-  display: inline-block;
-  vertical-align: top;
 }
 
 .navbar {
@@ -99,11 +86,6 @@ nav {
 
 /* main niaid footer
 ------------------------- */
-
-footer {
-	display: inline-block;
-	vertical-align: bottom;
-}
 .main-niaid-footer {
 	background-color: #20558A;/
 	margin-top: 0px;
