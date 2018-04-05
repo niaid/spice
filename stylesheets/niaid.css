@@ -1,7 +1,9 @@
+/* 
 body {
   background-color: #f1f1f1;
   color: #151515;
 }
+ */
 
 
 /* Header and Navbar
@@ -43,7 +45,9 @@ body {
 }
 
 .navbar {
-  position: relative;
+  display: inline-block;
+  vertical-align: top;
+/*   position: relative; */
   min-height: 110px;
   margin-bottom: 0px;
   border: none;
