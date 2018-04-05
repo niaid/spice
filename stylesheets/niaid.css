@@ -47,7 +47,7 @@ body {
 .navbar {
   display: inline-block;
   vertical-align: top;
-/*   position: relative; */
+  position: relative;
   min-height: 110px;
   margin-bottom: 0px;
   border: none;
@@ -98,7 +98,7 @@ body {
 ------------------------- */
 .main-niaid-footer {
 	display: inline-block;
-	vertical-align: top;
+	vertical-align: bottom;
 	background-color: #20558A;/
 	margin-top: 0px;
 	padding-bottom: 100px;
