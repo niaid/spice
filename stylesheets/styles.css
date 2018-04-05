@@ -194,7 +194,7 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
+#spicefooter {
   width:270px;
   float:left;
   position:fixed;
@@ -209,7 +209,7 @@ footer {
     margin:0;
   }
 
-  header, section, footer {
+  header, section, #spicefooter {
     float:none;
     position:static;
     width:auto;
