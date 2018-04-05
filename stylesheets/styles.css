@@ -104,21 +104,21 @@ img {
   max-width:100%;
 }
 
-header {
+#spiceheader {
   width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header h1 img {
+#spiceheader h1 img {
 	
 	vertical-align: middle;
 	padding-right: 10px;
 	
 }
 
-header ul {
+#spiceheader ul {
   list-style:none;
   height:40px;
   padding:0;
@@ -128,22 +128,22 @@ header ul {
   width:270px;
 }
 
-header li {
+#spiceheader li {
   width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
 }
 
-header li:first-child a {
+#spiceheader li:first-child a {
   border-radius:5px 0 0 5px;
 }
 
-header li:last-child a {
+#spiceheader li:last-child a {
   border-radius:0 5px 5px 0;
 }
 
-header ul a {
+#spiceheader ul a {
   line-height:1.1;
   font-size:11px;
   color:#999;
@@ -153,11 +153,11 @@ header ul a {
   height:34px;
 }
 
-header ul a:hover {
+#spiceheader ul a:hover {
   color:#999;
 }
 
-header ul a:active {
+#spiceheader ul a:active {
   background-color:#f0f0f0;
 }
 
@@ -166,12 +166,12 @@ strong {
   font-weight:500;
 }
 
-header ul li + li + li {
+#spiceheader ul li + li + li {
   border-right:none;
   width:89px;
 }
 
-header ul a strong {
+#spiceheader ul a strong {
   font-size:11px;
   display:block;
   color:#222;
@@ -202,6 +202,7 @@ hr {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+/* 
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -209,13 +210,13 @@ hr {
     margin:0;
   }
 
-  header, section, #spicefooter {
+  #spiceheader, section, #spicefooter {
     float:none;
     position:static;
     width:auto;
   }
 
-  header {
+  #spiceheader {
     padding-right:320px;
   }
 
@@ -226,11 +227,11 @@ hr {
     margin:0 0 20px;
   }
 
-  header a small {
+  #spiceheader a small {
     display:inline;
   }
 
-  header ul {
+  #spiceheader ul {
     position:absolute;
     right:50px;
     top:52px;
@@ -242,11 +243,11 @@ hr {
     word-wrap:break-word;
   }
 
-  header {
+  #spiceheader {
     padding:0;
   }
 
-  header ul, header p.view {
+  #spiceheader ul, header p.view {
     position:static;
   }
 
@@ -276,3 +277,4 @@ hr {
     color:#444;
   }
 }
+ */
