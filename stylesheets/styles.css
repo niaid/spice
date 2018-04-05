@@ -57,7 +57,8 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
-  display:block;
+  display:inline-block;
+  clear: both;
 }
 
 blockquote {
