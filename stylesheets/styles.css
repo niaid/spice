@@ -57,6 +57,7 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
+/*   display:block; */
 }
 
 blockquote {
@@ -106,12 +107,7 @@ img {
 
 #sidebar {
   float:left;
-}
-
-#spiceheader {
   width:270px;
-/*   float:left; */
-/*   position:fixed; */
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -199,11 +195,7 @@ hr {
 }
 
 #spicefooter {
-  width:270px;
-  /* float */:left;
-/*   position:fixed; */
   bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 /* 
