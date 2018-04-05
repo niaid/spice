@@ -44,9 +44,12 @@ body {
   transition: all 0.2s;
 }
 
-.navbar {
+nav {
   display: inline-block;
   vertical-align: top;
+}
+
+.navbar {
   position: relative;
   min-height: 110px;
   margin-bottom: 0px;
@@ -96,10 +99,12 @@ body {
 
 /* main niaid footer
 ------------------------- */
-.main-niaid-footer {
+
+footer {
 	display: inline-block;
 	vertical-align: bottom;
-	position: fixed;
+}
+.main-niaid-footer {
 	background-color: #20558A;/
 	margin-top: 0px;
 	padding-bottom: 100px;
