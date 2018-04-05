@@ -1,0 +1,186 @@
+body {
+  background-color: #f1f1f1;
+  color: #151515;
+}
+
+
+/* Header and Navbar
+------------------------- */
+
+.nephele-topbar .btn {
+	font-size: 12px;
+	color: #939393;
+}
+
+.nephele-topbar .btn-link:hover,
+.nephele-topbar .btn-link:focus {
+	color: #fff;
+	text-decoration: none;
+	background-color: transparent;
+	outline: 10;
+}
+
+.site-topbar {
+  border: 0;
+  border-bottom: 1px dotted #d6d7d9;
+}
+
+.site-topbar .btn {
+  font-size: 10px;
+  letter-spacing: 1px;
+  padding-left: 0px;
+  padding-right: 24px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.site-topbar .btn-link:hover,
+.site-topbar .btn-link:focus {
+  text-decoration: none;
+  background-color: transparent;
+  outline: 0;
+  transition: all 0.2s;
+}
+
+.navbar {
+  position: relative;
+  min-height: 110px;
+  margin-bottom: 0px;
+  border: none;
+  border-radius: 0px;
+  background-color: #20558A ; 
+}
+
+
+.nephele-navhr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0;
+    border-top: 1px dotted #939393;
+}
+
+.nephele-logotype {
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+  color: #ffffff;  
+
+}
+
+.nephele-tagline {
+  font-size: 12px;
+  opacity: 0.7;
+  color: #fff;
+}
+
+.nbp-links {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.nbp-links:hover,
+.nbp-links:focus {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+
+/* ------------------------- */
+
+
+/* main niaid footer
+------------------------- */
+.main-niaid-footer {
+	background-color: #20558A;/
+	margin-top: 0px;
+	padding-bottom: 100px;
+	padding-top: 60px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.footer-links-heading {
+	font-weight: bold;
+	text-transform: uppercase;
+  color: #fff;
+}
+
+.footer-nih-tagline{
+  font-size: 12px;
+  color: #fff;
+}
+
+.footer-links {
+	font-size: 14px;
+	color: #fff;
+	line-height: 2;
+  opacity: 0.7;
+}
+
+.footer-links:hover,
+.footer-links:focus {
+	color: #fff;
+	text-decoration: none;
+  opacity: 1;
+}
+
+.footer-address {
+	font-size: 12px;
+	color: #fff;/*151515*/
+}
+
+.footer-columns-separator {
+	border-top: 1px solid transparent;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.sidebar-column-separator {
+	border-top: 1px solid #000;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.footer-col-hr {
+  border-top: 1px dotted #fff;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+@media (min-width: 768px) {
+
+  .navbar-right {
+    float: right!important;
+    margin-right: -15px;
+    padding-top: 29px;
+   }
+
+}
+
+@media (max-width: 780px) {
+  .alingment-center-footer {
+   text-align: center;
+  }
+
+}
+
+@media (max-width: 625px) {
+  
+  .navbar {
+  position: relative;
+  min-height: 130px;
+  margin-bottom: 0px;
+  border: none;
+  border-radius: 0px;
+  background-color: #20558A ; 
+}
+}
+
+@media (max-width: 405px) {
+  .nephele-logotype{
+    font-size: 16px;
+  }
+}
