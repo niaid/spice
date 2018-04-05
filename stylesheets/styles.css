@@ -107,7 +107,7 @@ img {
 #spiceheader {
   width:270px;
   float:left;
-  position:fixed;
+/*   position:fixed; */
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -197,7 +197,7 @@ hr {
 #spicefooter {
   width:270px;
   float:left;
-  position:fixed;
+/*   position:fixed; */
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
