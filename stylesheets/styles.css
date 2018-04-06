@@ -59,7 +59,7 @@ a:hover small {
   padding:50px;
   margin:0 auto;
   display:inline-block;
-  clear: both;
+/*   clear: both; */
 }
 
 blockquote {
