@@ -2,10 +2,11 @@ body {
   background-color: #fff;
 /*   padding:50px; */
 /*   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
-  color:#595959;
+  color: #151515;
 /*   font-weight:400; */
 }
 
+/* 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -54,14 +55,6 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
-  width:860px;
-  padding:50px;
-  margin:0 auto;
-  display:inline-block;
-/*   clear: both; */
-}
-
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -81,6 +74,14 @@ pre {
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
+}
+*/
+
+.wrapper {
+  width:100px;
+  padding:50px;
+  margin:0 auto;
+  display:inline-block;
 }
 
 table {
@@ -181,7 +182,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:700px;
 /*   float:right; */
   padding-bottom:50px;
   margin-left: 50px;
