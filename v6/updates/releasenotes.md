@@ -5,6 +5,10 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0036 (2018-04-13)
+
+* Fixed a drawing bug that caused pie charts - whose angles should add up to 360 degrees - to contain "bonus degrees".
+
 ## 6.0035 (2018-02-02)
 
 * Fixes a bug that could cause SPICE to crash under certain circumstances when clicking a color swatch in the color scheme control.
