@@ -8,6 +8,7 @@ title: SPICE 6 Release Notes
 ## 6.0036 (2018-04-13)
 
 * Fixed a drawing bug that caused pie charts - whose angles should add up to 360 degrees - to contain "bonus degrees".
+* Fixed a permissions issue that could stall the auto-update mechanism at the "installing" stage for some users. **Note:** *If you are experiencing this issue, you will need to download and install manually the latest version from [https://niaid.nih.gov/spice](https://niaid.nih.gov/spice).*
 
 ## 6.0035 (2018-02-02)
 
