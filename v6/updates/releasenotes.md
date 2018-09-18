@@ -5,6 +5,10 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0037 (2018-09-18)
+
+* Fixed an import bug that could cause incorrect data and crashing errors to occur if imported data contains more than one measurement for the same category.
+
 ## 6.0036 (2018-04-13)
 
 * Fixed a drawing bug that caused pie charts - whose angles should add up to 360 degrees - to contain "bonus degrees".
