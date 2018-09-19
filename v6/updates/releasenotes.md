@@ -5,9 +5,15 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0038 (2018-09-19)
+
+* Added Big Obvious Help Button in toolbar.
+
 ## 6.0037 (2018-09-18)
 
 * Fixed an import bug that could cause incorrect data and crashing errors to occur if imported data contains more than one measurement for the same category.
+
+**Note:** *Documents created by importing tabular data into SPICE 6 should be recreated if they contain duplicate measurements as this will cause subtle errors at best and crashes at worst.*
 
 ## 6.0036 (2018-04-13)
 
