@@ -5,6 +5,11 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0039 (2019-01-14)
+
+* Fixed bug that could cause SPICE to crash when adding/running a pie permutation test with a high number of any combination of measurements, groups, overlays, and categories.
+* Improved SPICE's behavior when running on Mojave under Dark Mode (this fix forces light/Aqua appearance).
+
 ## 6.0038 (2018-09-19)
 
 * Added Big Obvious Help Button in toolbar.
