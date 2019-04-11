@@ -5,6 +5,10 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0040 (2019-04-11)
+
+* Fixed a bug that prevented editing query groups with no figures. This also resolved related "hanging update" problems that could cause query updates to take longer than necessary or hang indefinitely until another query group or its figure was selected. This has the added benefit of saving time editing an empty query group and letting it update while adding figures (which will then use the available query results to run associated tests and plot).
+
 ## 6.0039 (2019-01-14)
 
 * Fixed bug that could cause SPICE to crash when adding/running a pie permutation test with a high number of any combination of measurements, groups, overlays, and categories.
