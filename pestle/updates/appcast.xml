@@ -8,12 +8,12 @@
 		<language>en</language>
 		
         <item>
-            <title>2.0 (20016) 2019-05-22</title>
-            <pubDate>Wed, 22 May 2019 12:00:00 -0400</pubDate>
-            <sparkle:releaseNotesLink>https://niaid.github.io/spice/pestle/updates/releasenotes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://niaid.github.io/spice/pestle/updates/Pestle20016.zip" sparkle:version="20016" sparkle:shortVersionString="2.0" length="7632317" type="application/octet-stream" sparkle:edSignature="1FTL2m0x7lBs3JXgPSUsH7yq4hc2WYq7yKTAxhmatcseot+t3vbvvQ+UbrxAI40WY8kJERt79gnJPL7MgKpDBA=="/>
-<sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-        </item>
+			<title>2.0 (20017) 2019-05-22</title>
+			<pubDate>Wed, 22 May 2019 11:16:42 -0400</pubDate>
+			<sparkle:releaseNotesLink>https://niaid.github.io/spice/pestle/updates/releasenotes.html</sparkle:releaseNotesLink>
+			<sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+			<enclosure url="https://niaid.github.io/spice/pestle/updates/Pestle20017.zip" sparkle:version="20017" sparkle:shortVersionString="2.0" length="7631584" type="application/octet-stream" sparkle:edSignature="OcMhSSQEECbtq8LhGXsSYDNCu+Yu5eRy85NJXrbR4GOSsjZOGBlgpSQ4T1GmIHGrukHnRG9rUkHEqJ/5A8VXCA=="/>
+		</item>
         
 	</channel>
 	
