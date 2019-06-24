@@ -5,6 +5,10 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0041 (2019-06-24)
+
+* **Note to Pestle Users:** This update removes the "Download Pestle" links since Pestle version 2.0 is now available and is included with the main SPICE downloadable on the SPICE website ( [https://niaid.github.io/spice](https://niaid.github.io/spice) ). Because Pestle and SPICE are both standalone applications with their own auto-updating capabilities, *you will need to download the full distribution package to get the new version of Pestle*. That is, *this automatic update will not include Pestle 2.0*.
+
 ## 6.0040 (2019-04-11)
 
 * Fixed a bug that prevented editing query groups with no figures. This also resolved related "hanging update" problems that could cause query updates to take longer than necessary or hang indefinitely until another query group or its figure was selected. This has the added benefit of saving time editing an empty query group and letting it update while adding figures (which will then use the available query results to run associated tests and plot).
