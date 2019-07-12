@@ -5,6 +5,11 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0042 (2019-07-12)
+
+* Registration is no longer required.
+* Terms of use (attribution and EULA) updates.
+
 ## 6.0041 (2019-06-24)
 
 * **Note to Pestle Users:** This update removes the "Download Pestle" links since Pestle version 2.0 is now available and is included with the main SPICE downloadable on the SPICE website ( [https://niaid.github.io/spice](https://niaid.github.io/spice) ). Because Pestle and SPICE are both standalone applications with their own auto-updating capabilities, *you will need to download the full distribution package to get the new version of Pestle*. That is, *this automatic update will not include Pestle 2.0*.

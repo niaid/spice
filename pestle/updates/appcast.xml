@@ -8,7 +8,14 @@
 		<language>en</language>
 		
 		<item>
-			<title>2.0</title>
+			<title>2.0 (20019)</title>
+			<pubDate>Fri, 12 Jul 2019 14:46:01 -0400</pubDate>
+			<sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+			<enclosure url="https://niaid.github.io/spice/pestle/updates/Pestle20019.zip" sparkle:version="20019" sparkle:shortVersionString="2.0" length="7671303" type="application/octet-stream" sparkle:edSignature="5pIUcf/t4Lq3LP6XilBt0DaizprDgS7QeLJNwkc00e7Ttgx4BETYrKeVxlJy6MOMxFuFTbRq/9NGB0VCSYRzBQ=="/>
+		</item>
+		
+        <item>
+			<title>2.0 (20018)</title>
 			<pubDate>Fri, 21 Jun 2019 17:15:20 -0400</pubDate>
 			<sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
 			<enclosure url="https://niaid.github.io/spice/pestle/updates/Pestle20018.zip" sparkle:version="20018" sparkle:shortVersionString="2.0" length="7647789" type="application/octet-stream" sparkle:edSignature="VVHWmtH0xlQDxQPpC5ZihijXYpMyY/fG3AxWdLxvihgSvAzXKsZfTahE+VrEXJaE5m8EFvxUc4z6hq98Q1bDCA=="/>
