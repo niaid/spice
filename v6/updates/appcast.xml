@@ -9,6 +9,20 @@
 		<language>en</language>
 		
         <item>
+            <title>6.0 (60043) 2019-07-15</title>
+            <sparkle:releaseNotesLink>https://niaid.github.io/spice/v6/updates/releasenotes.html</sparkle:releaseNotesLink>
+            <pubDate>Mon, 15 Jul 2019 12:00:00 -0400</pubDate>
+            <enclosure
+            url="https://niaid.github.io/spice/v6/updates/SPICE60043.zip"
+            sparkle:version="60043"
+            sparkle:shortVersionString="6.0"
+            type="application/octet-stream"
+            length="4303636"
+            sparkle:dsaSignature="MCwCFGvbD4QH6Qj53Js9fpiZKAB80BVBAhRl0CKxtsZXKlJfE2CSnLd/stFwlg=="
+            />
+        </item>
+        
+        <item>
             <title>6.0 (60042) 2019-07-12</title>
             <sparkle:releaseNotesLink>https://niaid.github.io/spice/v6/updates/releasenotes.html</sparkle:releaseNotesLink>
             <pubDate>Fri, 12 Jul 2019 12:00:00 -0400</pubDate>

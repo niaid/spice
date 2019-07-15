@@ -5,6 +5,11 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0043 (2019-07-15)
+
+* Color pickers now use the standard color panel due to issues with forcing it into a popover.
+* Fixed help link in main menu.
+
 ## 6.0042 (2019-07-12)
 
 * Registration is no longer required.
