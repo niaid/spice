@@ -5,6 +5,10 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0044 (2019-07-22)
+
+* Fixed bug that prevented empty canvas from rendering properly after adding initial figure reference.
+
 ## 6.0043 (2019-07-15)
 
 * Color pickers now use the standard color panel due to issues with forcing it into a popover.
