@@ -76,7 +76,15 @@ pre {
   overflow-x: auto;
 }
 */
-
+.spice-links{
+  color: #000000;
+}
+.spice-links:hover,
+.spice-links:focus{
+  color: #000000;
+  text-decoration: none;
+  background-color: transparent;
+}
 .wrapper {
   /* width:100px; */
   padding:20px;
