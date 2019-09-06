@@ -8,23 +8,25 @@
 	{% include niaidheader.html %}
 	
 	<div class="wrapper">
-	
-		{% include sidebar.html %}
+		<div class="row">
+			<div class="col-md-4">
+					{% include sidebar.html %}
+			</div>
+			<div class="col-md-8">
 		
-		<section>
-		
-		<div class="help-header">
-		
-			{% include help-navigation.html %}
-		
-			<h1>SPICE Help - {{ page.title }}</h1>
-		
-		</div>
-		
-        {{ content }}
+				<div class="help-header">
+				
+					{% include help-navigation.html %}
+				
+					<h1>SPICE Help - {{ page.title }}</h1>
+				
+				</div>
+				
+				{{ content }}
         
-        </section>
 		
+	        </div>
+	    </div>
 	</div>
 	
 	{% include niaidfooter.html %}
