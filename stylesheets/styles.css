@@ -78,10 +78,10 @@ pre {
 */
 
 .wrapper {
-  width:100px;
-  padding:50px;
-  margin:0 auto;
-  display:inline-block;
+  /* width:100px; */
+  padding:20px;
+  /* margin:0 auto; */
+  /* display:inline-block; */
 }
 
 table {
