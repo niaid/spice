@@ -116,6 +116,28 @@ img {
   max-width:100%;
 }
 
+.btn-contactus {
+  border-radius: 26px;
+  border-color: #20558A;
+  color: #20558A;
+}
+
+.btn-contactus:hover,
+.btn-contactus:active {
+  background-color: #20558A;
+  color: #fff;
+}
+
+.group-link {
+  border-radius: 40px;
+  color: #337ab7;
+}
+
+.group-link:hover,
+.group-link:focus {
+  text-decoration: none;
+  background-color: transparent;
+}
 #sidebar {
   float:left;
   margin-right: 50px;
