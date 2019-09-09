@@ -118,7 +118,7 @@ img {
 
 #sidebar {
   float:left;
-  width:270px;
+  /* width:270px; */
   margin-right: 50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
