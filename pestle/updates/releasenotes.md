@@ -5,6 +5,11 @@ title: Pestle 2 Release Notes
 
 # Pestle 2 Release Notes
 
+## 2.0020 (2019-09-10)
+
+* Removed all user statistics reporting.
+* Updated support request behavior.
+
 ## 2.0019 (2019-07-12)
 
 * New terms of use (attribution and EULA).

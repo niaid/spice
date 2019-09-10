@@ -8,10 +8,17 @@
 		<language>en</language>
 		
 		<item>
+			<title>2.0</title>
+			<pubDate>Tue, 10 Sep 2019 12:00:00 -0400</pubDate>
+			<sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+			<enclosure url="https://niaid.github.io/spice/pestle/updates/Pestle20020.zip" sparkle:version="20019" sparkle:shortVersionString="2.0" length="7671222" type="application/octet-stream" sparkle:edSignature="Ifm32KGZzSue5kPK+p90mVZrIiUY611i1njR7nQsnJmP48odPjeLaly5VUN/DtkEILhOhqvNAUHikhbugwSGBA=="/>
+		</item>
+		
+		<item>
 			<title>2.0 (20019)</title>
 			<pubDate>Fri, 12 Jul 2019 14:46:01 -0400</pubDate>
 			<sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-			<enclosure url="https://niaid.github.io/spice/pestle/updates/Pestle20019.zip" sparkle:version="20019" sparkle:shortVersionString="2.0" length="7671303" type="application/octet-stream" sparkle:edSignature="5pIUcf/t4Lq3LP6XilBt0DaizprDgS7QeLJNwkc00e7Ttgx4BETYrKeVxlJy6MOMxFuFTbRq/9NGB0VCSYRzBQ=="/>
+			<enclosure url="https://niaid.github.io/spice/pestle/updates/Pestle20020.zip" sparkle:version="20019" sparkle:shortVersionString="2.0" length="7671222" type="application/octet-stream" sparkle:edSignature="Ifm32KGZzSue5kPK+p90mVZrIiUY611i1njR7nQsnJmP48odPjeLaly5VUN/DtkEILhOhqvNAUHikhbugwSGBA=="/>
 		</item>
 		
         <item>
