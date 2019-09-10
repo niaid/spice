@@ -5,6 +5,12 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
+## 6.0045 (2019-09-24)
+
+* Fixed bug that prevented renaming a canvas.
+* Removed all user statistics reporting.
+* Updated support request behavior.
+
 ## 6.0044 (2019-07-22)
 
 * Fixed bug that prevented empty canvas from rendering properly after adding initial figure reference.
