@@ -6,7 +6,7 @@ title: SPICE 6 Release Notes
 # SPICE 6 Release Notes
 
 ## 6.1001 (2020-07-24)
-* **Note About System Requirements:** SPICE 6.1 now requires Mac OS version *10.13 or above** (6.0 required 10.9 or above) due to Apple's code signing and distribution requirements.
+* **Note About System Requirements:** SPICE 6.1 now requires Mac OS version *10.13 or above* (6.0 required 10.9 or above) due to Apple's code signing and distribution requirements.
 * **Note About Code Signing:** This bug-fix and maintenance update is provided by Gatera, LLC and is now code-signed with Apple by that name. If you receive a warning that the application's signing authority has changed, this is normal and valid. If you are uncertain, please make sure you've downloaded SPICE from its official site: https://niaid.github.io/spice/
 * **Note About Updates:** This update removes automatic updating as SPICE is currently in "maintenance mode". All bug fix updates from this point forward (including this version) will only be announced here and will require you to download the application from the SPICE website in order to update.
 * Fixed import bug that inappropriately claimed there were column naming errors in some files with specific characteristics.
