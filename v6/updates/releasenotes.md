@@ -5,8 +5,16 @@ title: SPICE 6 Release Notes
 
 # SPICE 6 Release Notes
 
-## 6.0045 (2019-09-24)
+## 6.1001 (2020-07-23)
+* **Note About Code Signing:** This bug-fix and maintenance update is provided by Gatera, LLC and is now code-signed with Apple by that name. If you receive a warning that the application's signing authority has changed, this is normal and valid. If you are uncertain, please make sure you've downloaded SPICE from its official site: https://niaid.github.io/spice/
+* **Note About Updates:** This update removes automatic updating as SPICE is currently in "maintenance mode". All bug fix updates from this point forward (including this version) will only be announced here and will require you to download the application from the SPICE website in order to update.
+* Fixed import bug that inappropriately claimed there were column naming errors in some files with specific characteristics.
+* Fixed import bug that incorrectly treated some missing values as zero.
+* Fixed bug when renaming a query, which required the query to be deselected and reselected to show the new name.
+* Fixed bug that caused figures in the currently-selected figure to display incorrect values when the document is first opened, requiring a Cmd-R refresh to correct.
+* The import process now automatically tries to parse matrix-formatted .spd for files with extensions other than .spd if tab- or comma-separated value parsing both fail.
 
+## 6.0045 (2019-09-24)
 * Fixed bug that prevented renaming a canvas.
 * Removed all user statistics reporting.
 * Updated support request behavior.
